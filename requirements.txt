@@ -1,0 +1,16 @@
+tensorflow==1.14.0
+stable_baselines
+pandas
+numpy
+gym
+matplotlib
+mpi4py
+python-binance
+scikit-learn
+requests
+pymongo
+currencyconverter
+readability-lxml
+beautifulsoup4
+Flask
+flask-cors
